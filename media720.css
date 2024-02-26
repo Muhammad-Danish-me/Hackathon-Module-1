@@ -11,4 +11,35 @@
   .section-two .bottom ul li {
     width: 100%;
   }
+  .footer-top {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+  .footer-top .left{
+    width: 100%;
+    padding-bottom: 30px;
+    /* padding-left: 20px; */
+    padding-right: 20px;
+
+  }
+  .footer-top .center-one{
+    width: 100%;
+    padding-bottom: 30px;
+    padding-right: 50px;
+
+  }
+  .footer-top .center-two{
+    width: 100%;
+    padding-bottom: 30px;
+    padding-right: 50px;
+
+  }
+  .footer-top .right{
+    width: 100%;
+    padding-bottom: 30px;
+    padding-right: 50px;
+
+  }
 }

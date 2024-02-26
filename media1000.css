@@ -34,4 +34,19 @@
     width: 100%;
     flex-wrap: wrap;
   }
+  .footer{
+    width: 100%;
+  }
+  .footer-top .left{
+    width: 35%;
+  }
+  .footer-top .center-one{
+    margin-left: 50px;
+  }
+  .footer-top .center-two{
+    margin-left: 50px;
+  }
+  .footer-top .right{
+    margin-left: 50px;
+  }
 }

@@ -9,6 +9,7 @@ body {
 
 .header .header-top {
   width: 100%;
+  padding-left: 20px;
 }
 
 .navbar {
@@ -126,7 +127,38 @@ body {
   flex-wrap: wrap;
 }
 .footer {
+  background-color: #424242;
+}
+.footer-top {
+  color: white;
+  width: 100%;
+  padding: 50px;
   margin-top: 50px;
   display: flex;
   justify-content: space-between;
+  border-bottom: 1px solid #747474;
+}
+.footer-top h4 {
+  font-weight: bold;
+}
+.footer-top .left {
+  width: 25%;
+}
+.footer-top .center-one {
+  width: 20%;
+}
+.footer-top .center-two {
+  width: 20%;
+}
+.footer-top.right {
+  width: 20%;
+}
+.footer-top .left a {
+  padding-top: 30px;
+  padding-left: 20px;
+}
+.footer .footer-bottom {
+  text-align: center;
+  padding: 7px;
+  color: white;
 }
