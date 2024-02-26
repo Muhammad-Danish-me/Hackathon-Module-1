@@ -1,0 +1,14 @@
+@media only screen and (max-width: 720px) {
+  .section-two .bottom ul {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    padding-right: 40px;
+  }
+  .section-two .bottom ul li {
+    width: 100%;
+  }
+}
